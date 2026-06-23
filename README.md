@@ -2,6 +2,8 @@
 
 **Documentation:** https://bstcpext.github.io/sb2/
 
+![CI](https://github.com/bstcpext/sb2/actions/workflows/ci.yml/badge.svg)
+
 ## Installation
 
 Clone the repository and install dependencies:
