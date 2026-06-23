@@ -3,6 +3,7 @@
 **Documentation:** https://bstcpext.github.io/sb2/
 
 ![CI](https://github.com/bstcpext/sb2/actions/workflows/ci.yml/badge.svg)
+[![Docs](https://github.com/bstcpext/sb2/actions/workflows/pages/pages-build-deployment/badge.svg)](https://bstcpext.github.io/sb2/)
 
 ## Installation
 
