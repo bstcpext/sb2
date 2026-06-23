@@ -1,5 +1,7 @@
 # myapp
 
+**Documentation:** https://bstcpext.github.io/sb2/
+
 ## Installation
 
 Clone the repository and install dependencies:
