@@ -50,6 +50,17 @@ cp .env.example .env
 
 Note: uv does not auto-load `.env`. Use `uv run --env-file .env <command>` to load dev settings explicitly.
 
+## Log format
+
+Both the console and file handlers use a compact format with second-precision
+timestamps, 3-letter level abbreviations, and `|` separators throughout:
+
+```
+2025-05-07 14:23:45 | INF | myapp.app:main:29 | Hello from myapp!
+```
+
+Level abbreviations: `DBG`, `INF`, `WRN`, `ERR`, `CRT`.
+
 ## Testing
 
 Run tests:
